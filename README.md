@@ -5,9 +5,6 @@ Healthcare providers face challenges in identifying high-risk patients early for
 
 **Health360** is an interactive Tableau analytics solution analyzing 5,000 patient records across demographics, clinical indicators, lifestyle habits, and symptom patterns to support preventive care and risk assessment.
 
-## 2. Live Interactive Demo
-* **Tableau Public Dashboard & Story:** [PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE]
-
 ## 3. Scenarios Addressed
 * **Scenario 1 — Dr. Michael Carter (Clinical Risk Assessment Officer):** Uses KPI cards and clinical risk charts (BMI, blood pressure, disease prevalence) to identify high-risk patients early.
 * **Scenario 2 — Emily Rodriguez (Healthcare Data Analyst):** Explores lifestyle behaviors (smoking, alcohol consumption, exercise level) and their relationship with chronic illnesses using side-by-side comparisons and heatmaps.
@@ -33,5 +30,5 @@ Healthcare providers face challenges in identifying high-risk patients early for
 9. **Age Group Distribution by Fatigue Condition (100% Stacked Bar Chart):** Compares fatigue symptom prevalence (0 vs. 1) across age cohorts.
 
 ## 6. Repository Files
-* `Health360_arul_story.twbx` — Packaged Tableau Workbook containing all 9 worksheets, the interactive Dashboard, and the 9-point Story.
+* `Health360 (1).twbx` — Packaged Tableau Workbook containing all 9 worksheets, the interactive Dashboard, and the 9-point Story.
 * `smart_healthcare_dataset (1).csv` — Source dataset.
